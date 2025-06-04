@@ -1,0 +1,16 @@
+{
+  "name": "Epic Tech AI",
+  "short_name": "EpicAI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "description": "Unrestricted AI-powered media generation with Epic Tech AI.",
+  "icons": [
+    {
+      "src": "https://images.websim.com/v1/project/xg_kicnm6uoqg831h721/revision/2/1200.jpeg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
